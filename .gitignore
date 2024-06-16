@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+__pycache__/
+/src/flameai/__pycache__/
+/tests/__pycache__/
+dist/
+.nox/
+.ipynb_checkpoints
