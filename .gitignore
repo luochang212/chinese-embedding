@@ -8,3 +8,4 @@ __pycache__/
 dist/
 .nox/
 .ipynb_checkpoints
+/data/bert-base-*
